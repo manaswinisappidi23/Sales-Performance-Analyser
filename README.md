@@ -4,4 +4,4 @@ cd Sales-Performance-Analyser
 
 pip install pandas numpy matplotlib plotly seaborn streamlit
 
-streamlit rum kpi.py
+streamlit run kpi.py
